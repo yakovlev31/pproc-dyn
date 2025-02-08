@@ -98,7 +98,6 @@ six==1.16.0
 smmap==5.0.1
 sortedcontainers==2.4.0
 stack-data==0.6.2
-stpp==0.1
 sympy==1.12
 tblib==2.0.0
 threadpoolctl==3.2.0
